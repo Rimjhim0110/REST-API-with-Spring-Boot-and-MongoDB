@@ -1,4 +1,4 @@
-# REST-API-with-Spring-Boot-and-MongoDB
+# REST API with Spring Boot and MongoDB
 This repository contains an Expenditure Manager application that integrates Spring Boot and MongoDB to create a robust RESTful API for managing expenditures. The application facilitates CRUD (Create, Read, Update, Delete) operations on expenditure records.
 
 
